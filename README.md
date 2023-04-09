@@ -7,7 +7,7 @@ https://github.com/Harshitakhore/OIBSIP/
 
 Task Sections
 Task 1 : Calculator
-vhttps://github.com/Harshitakhore/OIBSIP/blob/main/TASK-1/task.html
+https://github.com/Harshitakhore/OIBSIP/blob/main/TASK-1/task.html
 
 Task 2 : Tribute Page
 https://github.com/Harshitakhore/OIBSIP/blob/main/TASK-2/task.html
